@@ -1,0 +1,19 @@
+table{margin: 0 auto;
+    color: #480606;
+    background: rgb(243, 229, 229);
+    border: 2px solid black;
+    font-size: 12 pt;
+    border-collapse: collapse;
+    }
+    table caption{
+        color:#480606;
+        font-weight: bold;
+    }
+    table thead th, table tfoot th{
+        color:#9a0b0b;
+        background: #925e5e;
+    }
+    table  th, table  td{
+        border: 1px dotted lightgrey;
+        /* background: #925e5e; */
+    }
